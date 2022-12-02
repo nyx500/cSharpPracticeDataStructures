@@ -1,0 +1,15 @@
+C:\Users\Ophelia\OneDrive\Documents\CSharp\Perkins Chapter 5\StringExercises\bin\Debug\net6.0\StringExercises.exe
+C:\Users\Ophelia\OneDrive\Documents\CSharp\Perkins Chapter 5\StringExercises\bin\Debug\net6.0\StringExercises.deps.json
+C:\Users\Ophelia\OneDrive\Documents\CSharp\Perkins Chapter 5\StringExercises\bin\Debug\net6.0\StringExercises.runtimeconfig.json
+C:\Users\Ophelia\OneDrive\Documents\CSharp\Perkins Chapter 5\StringExercises\bin\Debug\net6.0\StringExercises.dll
+C:\Users\Ophelia\OneDrive\Documents\CSharp\Perkins Chapter 5\StringExercises\bin\Debug\net6.0\StringExercises.pdb
+C:\Users\Ophelia\OneDrive\Documents\CSharp\Perkins Chapter 5\StringExercises\obj\Debug\net6.0\StringExercises.csproj.AssemblyReference.cache
+C:\Users\Ophelia\OneDrive\Documents\CSharp\Perkins Chapter 5\StringExercises\obj\Debug\net6.0\StringExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ophelia\OneDrive\Documents\CSharp\Perkins Chapter 5\StringExercises\obj\Debug\net6.0\StringExercises.AssemblyInfoInputs.cache
+C:\Users\Ophelia\OneDrive\Documents\CSharp\Perkins Chapter 5\StringExercises\obj\Debug\net6.0\StringExercises.AssemblyInfo.cs
+C:\Users\Ophelia\OneDrive\Documents\CSharp\Perkins Chapter 5\StringExercises\obj\Debug\net6.0\StringExercises.csproj.CoreCompileInputs.cache
+C:\Users\Ophelia\OneDrive\Documents\CSharp\Perkins Chapter 5\StringExercises\obj\Debug\net6.0\StringExercises.dll
+C:\Users\Ophelia\OneDrive\Documents\CSharp\Perkins Chapter 5\StringExercises\obj\Debug\net6.0\refint\StringExercises.dll
+C:\Users\Ophelia\OneDrive\Documents\CSharp\Perkins Chapter 5\StringExercises\obj\Debug\net6.0\StringExercises.pdb
+C:\Users\Ophelia\OneDrive\Documents\CSharp\Perkins Chapter 5\StringExercises\obj\Debug\net6.0\StringExercises.genruntimeconfig.cache
+C:\Users\Ophelia\OneDrive\Documents\CSharp\Perkins Chapter 5\StringExercises\obj\Debug\net6.0\ref\StringExercises.dll
